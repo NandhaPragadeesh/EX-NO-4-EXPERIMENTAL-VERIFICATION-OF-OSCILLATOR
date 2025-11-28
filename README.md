@@ -30,7 +30,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
 
-![WhatsApp Image 2025-11-27 at 11 33 52 PM](https://github.com/user-attachments/assets/f1d71367-3dc5-49f0-862f-882bd7c4b416)
+<img width="1455" height="1023" alt="image" src="https://github.com/user-attachments/assets/91f87f3b-9b6e-4824-8828-c4a0051562d6" />
 
 
 
@@ -59,18 +59,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-11-28 at 8 14 58 PM](https://github.com/user-attachments/assets/2c8794ac-7a55-4b01-973a-f3f2608c8a84)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |        12            |      5.1            |     193.7           |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4a417e32-355c-4571-bafd-0bdb87062e88" />
+<img width="1080" height="1491" alt="image" src="https://github.com/user-attachments/assets/48c4af12-8b64-422d-b385-854379e75862" />
 
 
 ---
@@ -95,7 +89,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
 
-![WhatsApp Image 2025-11-27 at 11 34 55 PM](https://github.com/user-attachments/assets/77c659c8-6078-43b5-a973-b61d8e88c121)
+<img width="1458" height="1080" alt="image" src="https://github.com/user-attachments/assets/28810f34-3012-4774-aaf5-78e9ee033f46" />
 
 
 
@@ -130,18 +124,12 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="1280" height="1151" alt="image" src="https://github.com/user-attachments/assets/1b6ff78e-5096-4ebb-9d7e-1cc281d11c9b" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |      21              |      110.66            |   1.37             |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
----
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b9c5d915-e70c-4683-9683-25d08ea5761f" />
+<img width="1080" height="1491" alt="image" src="https://github.com/user-attachments/assets/48c4af12-8b64-422d-b385-854379e75862" />
 
 ---
 ## RESULT:
